@@ -1,0 +1,53 @@
+﻿Title,URL,Topic,Difficulty,Format,Source
+Machine Learning Specialization,https://www.coursera.org/specializations/machine-learning-introduction,ML,Beginner/Intermediate,Course,Coursera (Stanford/DeepLearning.AI)
+Deep Learning Specialization,https://www.coursera.org/specializations/deep-learning,DL/CV/NLP,Intermediate,Course,Coursera (DeepLearning.AI)
+AI For Everyone,https://www.coursera.org/learn/ai-for-everyone,AI/Strategy,Beginner,Course,Coursera (DeepLearning.AI)
+Natural Language Processing Specialization,https://www.coursera.org/specializations/natural-language-processing,NLP,Intermediate/Advanced,Course,Coursera (DeepLearning.AI)
+Generative AI with Large Language Models,https://www.coursera.org/learn/generative-ai-with-llms,NLP/GenAI,Intermediate,Course,Coursera (AWS/DeepLearning.AI)
+CS50's Introduction to Artificial Intelligence with Python,https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python,AI/ML,Intermediate,Course,edX (HarvardX)
+Principles of Machine Learning: Python Edition,https://www.edx.org/course/principles-of-machine-learning-python-edition,ML,Intermediate,Course,edX (Microsoft)
+Machine Learning Crash Course,https://developers.google.com/machine-learning/crash-course,ML,Beginner/Intermediate,Course/Text,Google AI
+Responsible AI Practices,https://ai.google/responsibilities/responsible-ai-practices/,AI/Ethics,Beginner/Intermediate,Text/Guidelines,Google AI
+Learn with Google AI,https://ai.google/learn/,AI/ML/Ethics,Various,Mixed,Google AI
+CS231n: Convolutional Neural Networks for Visual Recognition,http://cs231n.stanford.edu/,CV/DL,Intermediate/Advanced,Course Materials/Videos,Stanford University
+CS224n: Natural Language Processing with Deep Learning,http://web.stanford.edu/class/cs224n/,NLP/DL,Intermediate/Advanced,Course Materials/Videos,Stanford University
+CS229: Machine Learning,https://cs229.stanford.edu/,ML,Intermediate/Advanced,Course Materials/Notes,Stanford University
+CS234: Reinforcement Learning,https://web.stanford.edu/class/cs234/index.html,RL,Intermediate/Advanced,Course Materials/Videos,Stanford University
+6.S191: Introduction to Deep Learning,http://introtodeeplearning.com/,DL/ML,Intermediate,Course Materials/Videos,MIT
+6.036: Introduction to Machine Learning,https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/,ML,Intermediate,Course Materials,MIT OCW
+Practical Deep Learning for Coders,https://course.fast.ai/,DL/CV/NLP,Intermediate,Course/Videos/Book,fast.ai
+Hugging Face NLP Course,https://huggingface.co/course/chapter1/1,NLP,Intermediate,Course/Text,Hugging Face
+Hugging Face Diffusion Models Course,https://huggingface.co/learn/diffusion-models,CV/GenAI,Intermediate/Advanced,Course/Text,Hugging Face
+PyTorch Tutorials,https://pytorch.org/tutorials/,DL/Implementation,Beginner/Intermediate,Tutorials,PyTorch Official
+TensorFlow Tutorials,https://www.tensorflow.org/tutorials,DL/Implementation,Beginner/Intermediate,Tutorials,TensorFlow Official
+The Illustrated Transformer,http://jalammar.github.io/illustrated-transformer/,NLP/DL,Intermediate,Blog Post,Jay Alammar Blog
+Understanding LSTM Networks,https://colah.github.io/posts/2015-08-Understanding-LSTMs/,DL/NLP,Intermediate/Advanced,Blog Post,Christopher Olah's Blog
+Attention and Augmented Recurrent Neural Networks,https://distill.pub/2016/augmented-rnns/,NLP/DL,Advanced,Article,Distill.pub
+Visualizing Attention (Seq2Seq Models),https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/,NLP/DL,Intermediate/Advanced,Blog Post,Jay Alammar Blog
+Yes you should understand backprop,https://karpathy.github.io/2019/04/25/recipe/,DL/Foundations,Intermediate,Blog Post,Andrej Karpathy Blog
+The Unreasonable Effectiveness of Recurrent Neural Networks,http://karpathy.github.io/2015/05/21/rnn-effectiveness/,NLP/DL,Intermediate,Blog Post,Andrej Karpathy Blog
+Neural Networks and Deep Learning (Online Book),http://neuralnetworksanddeeplearning.com/,DL/ML,Intermediate,Online Book,Michael Nielsen
+An Introduction to Statistical Learning (ISLR),https://www.statlearning.com/,ML/Stats,Intermediate,Book PDF/Website,"Book (James, Witten, Hastie, Tibshirani)"
+Deep Learning Book,https://www.deeplearningbook.org/,DL/ML/Math,Advanced,Book PDF/Website,"Book (Goodfellow, Bengio, Courville)"
+Dive into Deep Learning,https://d2l.ai/,DL/ML/CV/NLP,Intermediate/Advanced,Online Book/Code,Book (Aston Zhang et al.)
+Mathematics for Machine Learning,https://mml-book.github.io/,Math/Foundations,Intermediate,Book PDF/Website,"Book (Deisenroth, Faisal, Ong)"
+3Blue1Brown Neural Networks series,https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi,DL/Foundations,Beginner/Intermediate,Videos,YouTube (3Blue1Brown)
+StatQuest with Josh Starmer (ML Playlist),https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF,ML/Stats,Beginner/Intermediate,Videos,YouTube (StatQuest)
+Yannic Kilcher (Paper Reviews),https://www.youtube.com/c/YannicKilcher,AI/ML/NLP/CV,Advanced,Videos,YouTube (Yannic Kilcher)
+Krish Naik (ML/DL/Deployment Tutorials),https://www.youtube.com/user/krishnaik06,ML/DL/MLOps,Intermediate,Videos,YouTube (Krish Naik)
+Lex Fridman Podcast,https://www.youtube.com/c/lexfridman,AI/General,Various,Videos/Podcast,YouTube (Lex Fridman)
+动手学深度学习 - 李沐 (知乎专栏/文章),https://zhuanlan.zhihu.com/c_106982670,DL/ML/CV/NLP,Intermediate/Advanced,Zhihu Column,李沐 (Mu Li)
+动手学深度学习 - 李沐 (B站视频),https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497,DL/ML/CV/NLP,Intermediate/Advanced,Videos,Bilibili (李沐/Aston Zhang et al.)
+吴恩达机器学习课程 (中文字幕搬运),https://www.bilibili.com/video/BV164411b7dx/,ML,Beginner/Intermediate,Videos,Bilibili (搬运/吴恩达)
+王木头学科学 (AI科普),https://space.bilibili.com/490818261,AI/General,Beginner/Intermediate,Videos,Bilibili (王木头学科学)
+同济子豪兄 (AI实战/教程),https://space.bilibili.com/1900783,AI/CV/ML,Intermediate,Videos,Bilibili (同济子豪兄)
+Spinning Up in Deep RL,https://spinningup.openai.com/en/latest/,RL,Intermediate/Advanced,Course/Text,OpenAI
+OpenAI Blog,https://openai.com/blog/,AI/ML/NLP/CV/GenAI,Various,Blog,OpenAI
+GPT Best Practices,https://platform.openai.com/docs/guides/gpt-best-practices,NLP/GenAI,Intermediate,Documentation,OpenAI
+Elements of AI,https://www.elementsofai.com/,AI,Beginner,Course,University of Helsinki
+Kaggle Learn (Micro-courses),https://www.kaggle.com/learn,ML/Python/SQL/Viz,Beginner/Intermediate,Courses,Kaggle
+Distill.pub (Archive),https://distill.pub/,DL/ML/Visualization,Advanced,Journal/Articles,Distill.pub
+MLOps Community,https://mlops.community/,MLOps,Various,Community/Podcast/Blog,MLOps Community
+Papers With Code,https://paperswithcode.com/,AI/ML/CV/NLP/RL,Various,Resource Hub/Leaderboards,Papers With Code
+Made With ML (MLOps Course),https://madewithml.com/#course,ML/MLOps,Intermediate,Course/Text,Goku Mohandas
+Full Stack Deep Learning,https://fullstackdeeplearning.com/,DL/MLOps,Intermediate/Advanced,Course Materials/Community,Community Course
